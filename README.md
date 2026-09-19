@@ -1,2 +1,0 @@
-# PhP
-PHP &amp; MySQL
